@@ -1,0 +1,6 @@
+module Pods_budgeting {
+  umbrella header "Pods-budgeting-umbrella.h"
+
+  export *
+  module * { export * }
+}
